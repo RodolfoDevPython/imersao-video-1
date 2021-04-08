@@ -1,0 +1,4 @@
+commands docker     
+    docker-composer up -d - faz a subida do container para o docker no que foi especifcado nos arquivos de configuração(docker-composer e Dockerfile)
+    docker-composer ps - exibi uma lista de container
+    docker exec -it nomedocontainer bash - executa um conatainer especifico
